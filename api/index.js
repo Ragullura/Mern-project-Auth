@@ -5,8 +5,8 @@ dotenv.config();
 
 mongoose.connect(process.env.MONGO).then(()=>{
     console.log('MongoDB connected');
-}).catch((err)=>{console.error(err)});
-
+}).catch((err)=>{console.error(err)
+});
 const  app = express();
 
 app.listen(3001, () => {
