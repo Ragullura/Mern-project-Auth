@@ -17,7 +17,7 @@ export default function Home() {
           Authentication is implemented using JSON Web Tokens (JWT) 
           </p>
         <h1 className='text-3xl font-semibold text-slate-500 mb-2'>Features Spotlight</h1>
-        <p className='text-xl text-orange-900'>
+        <p className='text-xl text-orange-800'>
             Welcome to our MERN full-stack authentication platform, 
             where seamless user experiences meet robust security. 
             Our website offers a streamlined authentication process, 

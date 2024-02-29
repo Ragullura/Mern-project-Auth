@@ -5,7 +5,7 @@ export default function About() {
     <div className='px-4 py-12 max-w-2xl mx-auto '>
       <h1 className='text-3xl 
        font-bold mb-4 text-slate-700'>About Us</h1>
-       <p className='text-xl  text-cyan-700 '>
+       <p className='text-xl  text-cyan-800 '>
        Welcome to Ant Authentication, where our mission is to pioneer secure 
        digital experiences through innovative technology.Comprising a dynamic 
        team of developers passionate about user-centric solutions, we leverage 
@@ -16,7 +16,7 @@ export default function About() {
        of Redux Toolkit ensures a state-of-the-art state management system, 
        delivering not only security but also a smooth user experience.
        </p>
-       <p className='text-xl text-blue-900'>
+       <p className='text-xl text-blue-800'>
        At the heart of Ant Authentication lies a commitment to transparency and 
        collaboration. Our About page serves as a testament to our dedication to providing 
        users with a detailed understanding of the platform's inner workings. Dive into the 
